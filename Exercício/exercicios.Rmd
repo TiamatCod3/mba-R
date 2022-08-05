@@ -1,0 +1,111 @@
+---
+title: "R - Métodos e Recursos Computacionais"
+author: Tiago Matos
+output: learnr::tutorial
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+tutorial_options()
+```
+
+
+## Tópico 1 - Básico    
+
+### Operações
+
+*Como toda linguagem de programação, existem operações simples que podem ser executadas no R, a seguir alguns exemplos.*
+
+Veja o resultado da soma abaixo executando o código:
+```{r soma-sete, exercise=TRUE, exercise.lines=1}
+3 + 4
+```
+
+
+### **Exercício - Aritmética**
+
+*Execute os códigos abaixo para os resultados sugeridos.*
+
+- SOMA
+
+*O resultado deve ser 10:*
+```{r soma-dez, exercise=TRUE, exercise.lines = 1}
+3 + 
+```
+*O resultado deve ser 1:*
+```{r soma-um, echo=FALSE, warning=FALSE, exercise=TRUE, exercise.lines=1}
+3 + (-2)
+```
+```{r}
+1
+```
+
+- SUBTRAÇÃO
+
+*O resultado deve ser 1:*
+
+```{r ssubtrai-um, exercise=TRUE, exercise.lines = 1}
+
+```
+
+- MULTIPLICAÇÃO
+
+```{r}
+
+```
+
+- DIVISÃO
+
+```{r}
+
+```
+
+- EXPONENCIAÇÃO
+
+```{r}
+
+```
+
+- RESTO
+
+```{r}
+2 + 2
+```
+
+- DIVISÃO INTEIRA
+
+```{r}
+
+```
+
+### **Exercício - Booleanos**
+
+- AND
+
+```{r}
+
+```
+
+- OR
+
+- NOT
+
+- MAIOR QUE
+
+- MENOR QUE
+
+- IGUAL
+
+- DIFERENTE
+
+
+
+### **Exercício - Caractere**
+
+- 
+
+## Tópico 2
+
+
