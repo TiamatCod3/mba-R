@@ -1,0 +1,30 @@
+---
+title: "02 - Instalando pacotes"
+output: html_notebook
+---
+
+> Os pacotes são um conjunto de bibliotecas de métodos e funções que amplificam a a capacidade do R. Atualmente, a grande maioria dos processamentos realizados utiliza pacotes.
+
+> O primeiro passo é instalar o pacote. Para o pacote dataset, o comando seria como abaixo:
+
+```{r}
+install.packages("datasets")
+```
+
+> O segundo passo é carregar o pacote na memória para execução das funções:
+
+```{r}
+library(datasets)
+```
+
+> Ao carregar o pacote é possível acessar os dados e/ou funções 
+
+```{r}
+cars
+```
+
+```{r}
+cars
+```
+
+> A instalação de pacotes também pode ser realizada por meio da interface gráfica
