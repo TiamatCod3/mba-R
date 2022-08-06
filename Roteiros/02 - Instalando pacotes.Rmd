@@ -27,4 +27,22 @@ cars
 cars
 ```
 
-> A instalação de pacotes também pode ser realizada por meio da interface gráfica
+> A instalação de pacotes também pode ser realizada por meio da interface gráfica:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

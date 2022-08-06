@@ -1,0 +1,11 @@
+#Caracteres
+
+
+#Lógicos
+
+
+#Inteiros
+
+
+#Numéricos
+

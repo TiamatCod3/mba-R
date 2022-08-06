@@ -1,0 +1,12 @@
+#Histograma
+
+
+#Boxplot
+
+
+#Dispersão
+
+
+#Pizza
+
+
